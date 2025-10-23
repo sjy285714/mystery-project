@@ -1,1 +1,1 @@
-This is a secret, run it first to see what it does :D
+install it via `pip install git+https://github.com/sjy285714/mystery-project`
